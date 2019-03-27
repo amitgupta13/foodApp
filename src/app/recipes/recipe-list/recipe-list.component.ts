@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       'Recipe 1', 
       'First Recipe for our test', 
       'https://foodrevolution.org/wp-content/uploads/2018/04/blog-featured-diabetes-20180406-1330.jpg'
+    ),
+    new Recipe(
+      'Recipe 1', 
+      'First Recipe for our test', 
+      'https://foodrevolution.org/wp-content/uploads/2018/04/blog-featured-diabetes-20180406-1330.jpg'
     )
   ];
 
